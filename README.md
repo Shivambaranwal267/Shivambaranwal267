@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Shivam Baranwal Software Engineer-2 with 1 years of experience specializing in building scalable . Proven expertise in Python (Django) and Node.js (Express.js, TypeScript) development , alongside strong capabilities in data orchestration using Apache Airflow and robust PostgreSQL/MongoDB/MySQL database solutions. Dedicated to optimizing system performance and delivering high-priority, end-to-end features<br>Backend & Core Languages : Python, JavaScript, Node.js, Java ,C/C++, GO<br>Frameworks : ReactJS, Laravel, Express.js , SpringBoot<br>Databases :Postgresql, MongoDB, MySQL<br>Cloud, DevOps & Tools : Docker, Git/GitHub , VsCode, Intellij Idea
+I am Shivam Baranwal,  Software Developer with experience in building cross-platform mobile applications using Flutter and developing responsive web applications using React.js and Tailwind CSS. Skilled in backend development using Laravel and Spring Boot, with experience in designing RESTful APIs and working with databases. Focused on delivering clean, scalable, and user-friendly solutions.
 
 
 ## 🌐 Socials:
